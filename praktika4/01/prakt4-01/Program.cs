@@ -8,7 +8,7 @@ namespace prakt4_01
 
       static void Main(string[] args)
       {
-        ArrayList myList = new ArrayList() { "GOSHA"};
+        ArrayList myList = new ArrayList() { "EVGEN"};
         myList.Add("EZHIK");
         myList.Add("MAKSIM");
         myList.Add("HENESSY");
